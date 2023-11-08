@@ -1,0 +1,8 @@
+B:\OOP\Lab_4\Computer\bin\Debug\Computer.exe.config
+B:\OOP\Lab_4\Computer\bin\Debug\Computer.exe
+B:\OOP\Lab_4\Computer\bin\Debug\Computer.pdb
+B:\OOP\Lab_4\Computer\obj\Debug\Computer.csproj.AssemblyReference.cache
+B:\OOP\Lab_4\Computer\obj\Debug\Computer.csproj.SuggestedBindingRedirects.cache
+B:\OOP\Lab_4\Computer\obj\Debug\Computer.csproj.CoreCompileInputs.cache
+B:\OOP\Lab_4\Computer\obj\Debug\Computer.exe
+B:\OOP\Lab_4\Computer\obj\Debug\Computer.pdb

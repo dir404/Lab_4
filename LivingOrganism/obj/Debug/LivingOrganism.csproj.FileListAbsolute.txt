@@ -1,0 +1,8 @@
+B:\OOP\Lab_4\LivingOrganism\bin\Debug\LivingOrganism.exe.config
+B:\OOP\Lab_4\LivingOrganism\bin\Debug\LivingOrganism.exe
+B:\OOP\Lab_4\LivingOrganism\bin\Debug\LivingOrganism.pdb
+B:\OOP\Lab_4\LivingOrganism\obj\Debug\LivingOrganism.csproj.AssemblyReference.cache
+B:\OOP\Lab_4\LivingOrganism\obj\Debug\LivingOrganism.csproj.SuggestedBindingRedirects.cache
+B:\OOP\Lab_4\LivingOrganism\obj\Debug\LivingOrganism.csproj.CoreCompileInputs.cache
+B:\OOP\Lab_4\LivingOrganism\obj\Debug\LivingOrganism.exe
+B:\OOP\Lab_4\LivingOrganism\obj\Debug\LivingOrganism.pdb
